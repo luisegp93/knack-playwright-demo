@@ -51,9 +51,9 @@ const liveViewLocators = {
 const values = {
   url: 'https://builder.knack.com/legarcia/warehouse-manager/schema/list',
   email: 'legarcia@unbosque.edu.co',
-  password: '!oceano13',
+  password: 'PASSWORD_HERE',
   adminEmail: 'admin@test.com',
-  adminPassword: 'test',
+  adminPassword: 'PASSWOR_HERE',
   inventoryName: 'Brazil Santos - Ground (5 lb)'
 }
 
